@@ -1,3 +1,5 @@
+Link para a página: https://gabrielrrrosa.github.io/site_francisco/
+
 LingoLeap - Aprenda Idiomas Gratuitamente
 Descrição do Projeto
 LingoLeap é uma landing page de estilo "Duolingo" projetada para demonstrar uma interface de usuário moderna e responsiva para uma plataforma de aprendizado de idiomas. O projeto é uma aplicação de página única (SPA) construída com HTML, CSS (utilizando Tailwind CSS) e JavaScript puro, sem a necessidade de frameworks complexos. Ele apresenta um carrossel hero interativo, seções de recursos, páginas de "Aprender" e "Cursos" simuladas, um formulário de contato e um modal de registro de usuário.
